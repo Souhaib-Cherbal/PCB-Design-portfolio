@@ -59,7 +59,7 @@ Advanced 3D visualization and mechanical integration projects.
 ### 🔌 **Power & Control Systems**
 
 #### AC Current Direction and RMS Measurement System
-![AC Current Measurement](AC%20Current%20Direction%20and%20RMS%20Measurement%20...png)
+![AC Current Measurement](AC%20Current%20Direction%20and%20RMS%20Measurement%20with%20Arduino%20Pro%20Micro_photo.jpg)
 
 **Features:**
 - Bidirectional AC current sensing
