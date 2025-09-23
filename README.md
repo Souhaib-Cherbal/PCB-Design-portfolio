@@ -177,7 +177,7 @@ Professional PCB front-end design showcasing:
 ### 🔬 **Analysis & Documentation**
 
 #### Circuit Design and Analysis
-![Circuit Analysis](do-circuit-design-and-analysis-pcbs-and-geber.png)
+![Circuit Analysis](do-circuit-design-and-analysis-pcbs-and-gebers-generation.jpg)
 
 **Engineering Services:**
 - Complete circuit analysis
