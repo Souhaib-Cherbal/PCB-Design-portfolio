@@ -97,7 +97,7 @@ Advanced 3D visualization and mechanical integration projects.
 - Power management integration
 
 #### ESP32-Based 12-Relay and Input Module for Home Automation
-![ESP32 Home Automation](ESP32-Based%2012-Relay%20and%20Input%20Module%20for%20H....png)
+![ESP32 Home Automation](ESP32-Based%2012-Relay%20and%20Input%20Module%20for%20Home%20Automation.png)
 
 **Applications:**
 - Smart home automation
@@ -177,7 +177,7 @@ Professional PCB front-end design showcasing:
 ### 🔬 **Analysis & Documentation**
 
 #### Circuit Design and Analysis
-![Circuit Analysis](do-circuit-design-and-analysis-pcbs-and-gebe....png)
+![Circuit Analysis](do-circuit-design-and-analysis-pcbs-and-geber.png)
 
 **Engineering Services:**
 - Complete circuit analysis
@@ -239,7 +239,7 @@ I'm passionate about creating **reliable and optimized hardware solutions** for 
 - Rapid prototyping solutions
 
 ### 📧 Contact Information
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [your.email@example.com](mailto:souhaibcherbal@gmail.com)
 - **LinkedIn:** [linkedin.com/in/souhaib-cherbal](https://linkedin.com/in/souhaib-cherbal)
 - **Portfolio:** [github.com/Souhaib-Cherbal](https://github.com/Souhaib-Cherbal)
 
