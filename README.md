@@ -88,7 +88,7 @@ Advanced 3D visualization and mechanical integration projects.
 - Programming and debugging interface
 
 #### ESP32 Custom Development Board
-![ESP32 Custom Board](ESP32%20custom%20board.png)
+![ESP32 Custom Board](ESP32%20custum%20board.png)
 
 **Design Highlights:**
 - Custom ESP32 breakout design
@@ -97,7 +97,7 @@ Advanced 3D visualization and mechanical integration projects.
 - Power management integration
 
 #### ESP32-Based 12-Relay and Input Module for Home Automation
-![ESP32 Home Automation](ESP32-Based%2012-Relay%20and%20Input%20Module%20for%20Home%20Automation.png)
+![ESP32 Home Automation](ESP32-Based%2012-Relay%20and%20Input%20Module%20for%20Home%20Automation.jpg)
 
 **Applications:**
 - Smart home automation
