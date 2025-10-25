@@ -1,6 +1,6 @@
-# 🔌 PCB Design Portfolio
+# PCB Design Portfolio
 
-**Electrical and PCB Design Engineer | Embedded Systems Specialist**
+**Electrical & PCB Design Engineer | Embedded Systems Specialist**
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Souhaib-Cherbal/PCB-Design-portfolio)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Souhaib-Cherbal/PCB-Design-portfolio)
@@ -8,257 +8,160 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hi! I'm **Souhaib Cherbal**, a passionate Electrical and PCB Design Engineer with expertise in embedded systems design. I hold a Master's degree in EMC (Electromagnetic Compatibility) from France and an Electrical Engineering diploma from Algeria.
+I'm Souhaib Cherbal, an electrical engineer specializing in PCB design and embedded systems. I hold a Master's degree in EMC (Electromagnetic Compatibility) from France and a degree in Electrical Engineering from Algeria. I work primarily with KiCad and EasyEDA, designing everything from simple Arduino-compatible boards to complex multi-layer industrial controllers.
 
-### 🎯 Core Expertise
-- **Custom PCB Design** using KiCad & EasyEDA
-- **Multi-layer PCB Layouts** with optimized routing
-- **Power Management Systems** design and implementation
-- **Sensor Integration** for IoT and embedded applications
-- **ESP32/STM32-based Systems** hardware and firmware development
-- **Real-time Control Systems** with embedded firmware
-- **EMC Design** and compliance optimization
+This repository showcases the hardware projects I've worked on, ranging from IoT devices to industrial automation systems.
 
----
-
-## 🛠️ Technical Skills
-
-### PCB Design Tools
-- **KiCad** - Advanced schematic capture and PCB layout
-- **EasyEDA** - Professional PCB design and manufacturing
-- **Altium Designer** - Industry-standard PCB CAD
-
-### Microcontrollers & Processors
-- **ESP32** - WiFi/Bluetooth IoT applications
-- **STM32** - ARM Cortex-M based embedded systems
-- **Arduino** - Rapid prototyping and development
-
-### Design Capabilities
-- ✅ Multi-layer PCB design (2-8 layers)
-- ✅ High-speed digital design
-- ✅ Analog circuit design
-- ✅ Power electronics and management
-- ✅ RF/Wireless circuit design
-- ✅ EMC/EMI optimization
-- ✅ DFM (Design for Manufacturing) compliance
+### What I Focus On
+- Custom PCB design and layout
+- ESP32 and STM32-based systems
+- Power electronics and motor control
+- IoT and home automation hardware
+- EMC-compliant design
+- DFM optimization for manufacturing
 
 ---
 
-## 📋 Project Portfolio
+## Technical Capabilities
 
-### 🖥️ **3D PCB Designs**
-Advanced 3D visualization and mechanical integration projects.
+**PCB Design Tools:** KiCad, EasyEDA, Altium Designer
 
-| Project | Description |
-|---------|-------------|
-| ![3D PCB 2025-08-13](3D_PCB_2025-08-13.png) | 3D rendered PCB with component placement optimization |
-| ![3D PCB 2025-08-19](3D_PCB_2025-08-19.png) | Multi-layer design with 3D mechanical constraints |
+**Microcontrollers:** ESP32, STM32, Arduino-compatible platforms
 
-### 🔌 **Power & Control Systems**
+**Design Experience:**
+- Multi-layer PCB layouts (up to 8 layers)
+- High-speed digital and analog circuits
+- Power management systems
+- RF/wireless circuit design
+- Sensor integration for embedded applications
 
-#### AC Current Direction and RMS Measurement System
-![AC Current Measurement](AC%20Current%20Direction%20and%20RMS%20Measurement%20with%20Arduino%20Pro%20Micro_photo.jpg)
+---
 
-**Features:**
-- Bidirectional AC current sensing
-- RMS calculation with high accuracy
-- Isolated measurement for safety
-- Real-time data processing
+## Featured Projects
 
-#### Controller Board with OpAmps
-![Controller Board](Controller%20Board%20with%20Opamps.jpg)
+### IoT & Communication
 
-**Specifications:**
-- Multi-channel operational amplifier design
-- Precision analog signal conditioning
-- Low-noise power supply design
-- Modular architecture for scalability
+**ESP32 MCU with USB-C Serial Interface**
 
-### 🌐 **IoT & Communication Modules**
-
-#### ESP32 MCU with USB-C Serial Interface
 ![ESP32 USB-C](ESP32%20MCU%20with%20USB-C%20Serial%20interface.jpg)
 
-**Key Features:**
-- Modern USB-C connectivity
-- Integrated WiFi/Bluetooth capability
-- Compact form factor design
-- Programming and debugging interface
+A compact ESP32 development board featuring USB-C connectivity. Designed for modern IoT applications with WiFi/Bluetooth support and an integrated programming interface.
 
-#### ESP32 Custom Development Board
-![ESP32 Custom Board](ESP32%20custum%20board.png)
+**ESP32-Based 12-Relay Module for Home Automation**
 
-**Design Highlights:**
-- Custom ESP32 breakout design
-- Optimized antenna placement
-- Multiple I/O expansion options
-- Power management integration
-
-#### ESP32-Based 12-Relay and Input Module for Home Automation
 ![ESP32 Home Automation](ESP32-Based%2012-Relay%20and%20Input%20Module%20for%20Home%20Automation.jpg)
 
-**Applications:**
-- Smart home automation
-- Industrial control systems
-- Remote monitoring and control
-- 12-channel relay switching
+12-channel relay board for smart home control. Includes isolated inputs, WiFi connectivity, and support for remote monitoring. Used in residential and light industrial automation.
 
-### 🚀 **Development Boards & Modules**
+**ESP32 Custom Development Board**
 
-#### Enhanced Arduino-Compatible Starter Board
-![Arduino Compatible](Enhanced%20Arduino-Compatible%20Starter%20Board.jpg)
+![ESP32 Custom Board](ESP32%20custum%20board.png)
 
-**Features:**
-- Arduino IDE compatibility
-- Extended I/O capabilities
-- Onboard sensors and indicators
-- Educational and prototyping focus
+A custom ESP32 breakout with optimized antenna placement and expanded I/O. Built for prototyping and small-batch production.
 
-#### LED Strip PCB Controller
-![LED Controller](LED%20strip%20PCB%20controller.jpg)
+### Industrial Control
 
-**Capabilities:**
-- RGB LED strip control
-- PWM dimming control
-- Multiple channel support
-- Compact PCB design
+**PLC Based on ESP32**
 
-### 🏭 **Industrial & Automation**
-
-#### PLC Based on ESP32
 ![ESP32 PLC](PLC%20based%20on%20ESP32.png)
 
-**Industrial Features:**
-- PLC functionality implementation
-- Industrial I/O interfaces
-- Real-time control capabilities
-- Networking and communication
+An ESP32-powered programmable logic controller with industrial I/O interfaces. Designed for real-time control applications with networking capabilities.
 
-#### STM32 BlackPill Based Design
-![STM32 BlackPill](STM32%20BlackPill%20Based%20Design.jpg)
+**STM32F401 PCB Design**
 
-**Technical Specs:**
-- STM32F4xx microcontroller
-- Compact development board
-- High-performance processing
-- Multiple peripheral interfaces
-
-#### STM32F401 Based PCB Design
 ![STM32F401](STM32F401%20Based%20PCB%20Design.jpg)
 
-**Design Features:**
-- ARM Cortex-M4 processor
-- Optimized power distribution
-- Multiple communication interfaces
-- Professional PCB layout
+Development board built around the STM32F401 (ARM Cortex-M4). Optimized power distribution and multiple communication interfaces for embedded applications.
 
-### 🔧 **Motor Control & Power Electronics**
+**STM32 BlackPill-Based Design**
 
-#### Servo Motors PCB
+![STM32 BlackPill](STM32%20BlackPill%20Based%20Design.jpg)
+
+Compact STM32F4xx-based board for high-performance processing in a small form factor.
+
+### Power & Control
+
+**AC Current Direction and RMS Measurement System**
+
+![AC Current Measurement](AC%20Current%20Direction%20and%20RMS%20Measurement%20with%20Arduino%20Pro%20Micro_photo.jpg)
+
+Bidirectional AC current sensing system with isolated measurement and real-time RMS calculation. Built with the Arduino Pro Micro.
+
+**Controller Board with OpAmps**
+
+![Controller Board](Controller%20Board%20with%20Opamps.jpg)
+
+Multi-channel precision analog signal conditioning board. Low-noise design with modular architecture for scaling.
+
+**Servo Motors PCB**
+
 ![Servo Motors](Servo%20motors%20PCB.jpg)
 
-**Motor Control Features:**
-- Multi-servo motor control
-- Precision positioning
-- PWM signal generation
-- Feedback control systems
+Multi-channel servo motor controller with PWM signal generation and feedback control.
 
-### 📐 **PCB Front-End Design**
-![PCB Front](PCB-%20Front.png)
+**LED Strip Controller**
 
-Professional PCB front-end design showcasing:
-- Component placement optimization
-- Silkscreen design and labeling
-- Professional aesthetic appearance
-- Manufacturing-ready artwork
+![LED Controller](LED%20strip%20PCB%20controller.jpg)
 
-### 🔬 **Analysis & Documentation**
+RGB LED strip controller with PWM dimming and multi-channel support.
 
-#### Circuit Design and Analysis
-![Circuit Analysis](do-circuit-design-and-analysis-pcbs-and-gebers-generation.jpg)
+### Development & Prototyping
 
-**Engineering Services:**
-- Complete circuit analysis
-- PCB design optimization
-- Performance validation
-- Technical documentation
+**Enhanced Arduino-Compatible Starter Board**
 
-### 📊 **Technical Reports**
-Comprehensive technical documentation and analysis reports for all projects, ensuring professional delivery and client satisfaction.
+![Arduino Compatible](Enhanced%20Arduino-Compatible%20Starter%20Board.jpg)
+
+Extended Arduino-compatible board with onboard sensors and indicators. Designed for educational use and rapid prototyping.
+
+### 3D Design Examples
+
+| Design | Notes |
+|--------|-------|
+| ![3D PCB 2025-08-13](3D_PCB_2025-08-13.png) | Component placement optimization with 3D rendering |
+| ![3D PCB 2025-08-19](3D_PCB_2025-08-19.png) | Multi-layer design with mechanical constraints |
 
 ---
 
-## 🏆 Key Achievements
+## My Design Workflow
 
-- ✅ **15+ Successful PCB Projects** delivered to production
-- ✅ **Multi-layer PCB Expertise** up to 8 layers
-- ✅ **EMC Compliance** achieved on all commercial projects
-- ✅ **Cost Optimization** averaging 20% reduction in BOM costs
-- ✅ **Fast Turnaround** from concept to prototype in 2-3 weeks
+**Requirements → Schematic → Layout → Validation → Manufacturing**
+
+I start by understanding what you need, then move through circuit design, PCB layout with proper stackup planning, and thorough verification before generating production files. I work closely with manufacturers to ensure smooth fabrication and assembly.
 
 ---
 
-## 🛠️ Design Process
+## Services
 
-### 1. **Requirements Analysis**
-- Client consultation and specification gathering
-- Technical feasibility assessment
-- Component selection and sourcing
-
-### 2. **Schematic Design**
-- Circuit topology optimization
-- Component parameter calculation
-- Design rule verification
-
-### 3. **PCB Layout**
-- Multi-layer stackup planning
-- Signal integrity optimization
-- Thermal management consideration
-
-### 4. **Validation & Testing**
-- Design rule check (DRC)
-- Electrical rule check (ERC)
-- 3D mechanical verification
-
-### 5. **Manufacturing Support**
-- Gerber file generation
-- Assembly drawings and BOM
-- Manufacturing partner coordination
-
----
-
-## 📞 Let's Work Together!
-
-I'm passionate about creating **reliable and optimized hardware solutions** for your embedded systems projects. Whether you need:
-
-- Custom PCB design from scratch
-- Existing design optimization
+I'm available for PCB design projects including:
+- Custom board design from concept to production
+- Schematic capture and component selection
+- Multi-layer layouts with signal integrity optimization
 - EMC compliance consulting
-- Rapid prototyping solutions
-
-### 📧 Contact Information
-- **Email:** [your.email@example.com](mailto:souhaibcherbal@gmail.com)
-- **LinkedIn:** [linkedin.com/in/souhaib-cherbal](https://linkedin.com/in/souhaib-cherbal)
-- **Portfolio:** [github.com/Souhaib-Cherbal](https://github.com/Souhaib-Cherbal)
-
-### 💼 Services Offered
-- **PCB Design & Layout**
-- **Schematic Capture**
-- **Component Selection**
-- **EMC Design Optimization**
-- **Prototype Development**
-- **Manufacturing Support**
+- Design reviews and optimization
+- Prototype development and testing support
 
 ---
 
-## 📄 License
+## Get in Touch
 
-This repository showcases portfolio work. Individual project licenses may vary. Please contact for commercial usage rights.
+**Email:** SouhaibCherbal@gmail.com
+
+**LinkedIn:** [linkedin.com/in/souhaib-cherbal](https://linkedin.com/in/souhaib-cherbal)
+
+**GitHub:** [github.com/Souhaib-Cherbal](https://github.com/Souhaib-Cherbal)
+
+Feel free to reach out if you're working on a hardware project and need design support.
 
 ---
 
-**⭐ If you find my work interesting, please consider starring this repository!**
+## License
 
-*Last Updated: September 2025*
+This repository is a portfolio showcase. Individual projects may have different licenses. Contact me regarding commercial use.
+
+---
+
+⭐ **If you find this work useful, consider starring the repository!**
+
+*Last updated: September 2025*
